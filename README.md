@@ -1,1 +1,1 @@
-# groceries_collaborative_filtering
+# Collaborative Filtering using Supermarket Dataset
